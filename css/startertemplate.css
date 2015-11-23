@@ -1,0 +1,50 @@
+body{
+	padding-top: 50px;
+	background-image: url("BackdropWood.jpg");
+	background-color: #F3E1B6;
+	background-size:100%;
+	height: 200px;
+	display:block;
+	padding:0 !important;
+	margin:0;
+}
+
+.startertemplate
+{
+	text-align: center;
+	padding-top: 50px;
+	padding-right: 15px;
+	padding-bottom: 40px;
+	padding-left: 15px;
+
+}
+
+H1 {
+	color: #6E3C3E;
+}
+
+#topnavbar {
+    margin: 0
+    }
+
+#banner{color: #D7B881;
+	background-color: #6E3C3E;
+}
+
+#topnavbar.affix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+#navbar{
+	color: #D7B881;
+	background-color: #6E3C3E;
+}
+
+#footer{
+	color: #F3E1B6;
+	text-align: center;
+	background-color: #6E3C3E;
+
+}
+
