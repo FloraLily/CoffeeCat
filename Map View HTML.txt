@@ -1,0 +1,7 @@
+
+To embed this map in your own website, copy the following HTML and paste it in the source code for your page:
+
+<iframe src="https://www.google.com/maps/d/embed?mid=zpZJsKieY06k.kCLYkXlYAqqU" width="640" height="480"></iframe>
+
+
+Also see: https://developers.google.com/maps/tutorials/customizing/custom-markers
