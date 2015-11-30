@@ -44,6 +44,15 @@ H3{
 	padding-bottom: 20px;
 }
 
+#header_KM{
+  text-align: center;
+  height: 150px;
+  margin: 0 auto;
+  color: #D7B881;
+  background-color: #6E3C3E;
+  padding-top: 5px;
+  padding-bottom: 20px;
+}
 
 img {
     float: left;
@@ -63,14 +72,21 @@ img {
 
 }
 
+nav ul
+{
+padding: 0; /* Remove the default padding. */
+  list-style: none;
+  /* I want everything inside the nav bar centered, thus: */
+  text-align: center;
+}
 a:link, a:visited {
     display: block;
-    width: 335px;
+    text-align: center;
     font-weight: bolder;
     color: #120D09;
     background-color: #6E3C3E;
-    text-align: center;
-    padding: 5px;   
+    padding: 0;   
+    list-style: none;
 }
 
     a:hover, a:active {
@@ -118,3 +134,186 @@ p{
 
 }
 
+.one{
+  background-image: url("http://i.imgur.com/dxvC6AF.png?1");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+  color: white;
+}
+.two{
+  background-image: url("http://i.imgur.com/5fVlF8Z.png");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.three {
+  background-image: url("http://i.imgur.com/zOtpIPM.png");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.four {
+  background-image: url("http://i.imgur.com/3k0X093.png");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.five {
+  background-image: url("http://i.imgur.com/GUqxtVv.png");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.six {
+  background-image: url("http://i.imgur.com/Zu7fwZW.png");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.seven {
+  background-image: url("http://i.imgur.com/eT2qPog.png");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.eight {
+  background-image: url("http://i.imgur.com/ceKP8Xy.png");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.nine {
+  background-image: url("http://i.imgur.com/uXrGpFI.png");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.ten {
+  background-image: url("http://i.imgur.com/oj4sfgh.png");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.eleven {
+  background-image: url("http://i.imgur.com/aRrE43X.png");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.twelve {
+  background-image: url("http://i.imgur.com/6oboxXE.png");
+height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.thirteen {
+  background-image: url("http://i.imgur.com/V4rueX3.png");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.fourteen {
+  background-image: url("http://i.imgur.com/oYbT1IC.png");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.fifteen {
+  background-image: url("http://i.imgur.com/kgnbHw5.png");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.sixteen {
+  background-image: url("http://i.imgur.com/tuayorI.png");
+  height: 200px;
+  width: 600px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+    color: white;
+}
+.address {
+  float: right;
+}
+@media (max-width: 500px) {
+  h1 {
+    font-size: 50px;
+    margin-top: 20px;
+    line-height: 40px;
+  }
+  h2 {
+    font-size: 20px;
+    margin: 20px 0 30px 0;
+  }
+  div {
+    margin: 10px 12px 0 12px;
+  }
+  p {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  small {
+    font-size: 16px;
+  }
